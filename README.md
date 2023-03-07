@@ -1,7 +1,7 @@
-## Stroke Risk Prediction using Machine Learning
-
-**Context**
-<br>
+<h3> <p align="center"> Stroke Risk Prediction using Machine Learning</p> </h3>
+<p align="center">
+<img src="GettyImages-172591890.jpg" width="300" height="300" />
+</p>
 
 According to the World Health Organization (WHO) **stroke is the 2nd leading cause of death globally, responsible for approximately 11% of total deaths**.
 
